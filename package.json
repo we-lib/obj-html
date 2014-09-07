@@ -1,0 +1,19 @@
+{
+  "name": "obj-html",
+  "version": "0.0.1",
+  "description": "Parse js obj model to html",
+  "scripts": {
+    "test": "node test/run"
+  },
+  "repository": "git@github.com:fritx/obj-html.git",
+  "keywords": [
+    "html",
+    "obj",
+    "parse",
+    "model",
+    "template"
+  ],
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
+}
